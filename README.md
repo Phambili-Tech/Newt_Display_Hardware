@@ -53,4 +53,4 @@ Software:
 Optional Mounting and Desktop Hardware:
 - Acrylic Mounting Bracket with magnetic fixtures and expander for "flat" lithium-Ion batteries (up to 2500mAh)
 - Putty for non-magnetic adhesion
-- Stand for desk or nightstand 
+- Stand for desk or nightstand (made from engineered wood) 
