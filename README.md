@@ -1,5 +1,9 @@
 # Newt
 
+![](assets/newt_1.jpeg)
+
+![](assets/newt_5.jpeg)
+
 The Newt is an always-on, low-powered, mountable display that can be connected to the internet to retrieve weather, calendars, sports scores, todo lists, quotes... really anything that is available on the web! The Newt is powered by an ESP32-S2 microcontroller that can be programmed with Arduino, CircuitPython, and ESP-IDF.
 
 We consider the Newt to be the next evolution of the popular eInk displays that makers love to tinker with. We use a SHARP Memory In Pixel LCD in order to avoid the slow refresh times of eInk. We've added a Real Time Clock to support alarms and timers. Finally, we designed the Newt with battery operation in mind;  every component on the board was chosen for it's ability to operate at low power.
